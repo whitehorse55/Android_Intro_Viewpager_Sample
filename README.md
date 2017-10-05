@@ -10,9 +10,7 @@ Global.java
 
 MainActivityCode
 
-![3](https://user-images.githubusercontent.com/28718985/31206333-c4c1ae3e-a9a9-11e7-94d7-11ec0e9e0c0f.jpg)
-![2](https://user-images.githubusercontent.com/28718985/31206354-ed751474-a9a9-11e7-9b1b-f50733cdf3d6.jpg)
-![1](https://user-images.githubusercontent.com/28718985/31206361-f00c69e4-a9a9-11e7-91df-dba62f69106c.jpg)
+![s](https://user-images.githubusercontent.com/28718985/31206842-faa20398-a9ac-11e7-9d14-947c890562f8.png)
 
 public class MainActivity extends AppCompatActivity {
 
